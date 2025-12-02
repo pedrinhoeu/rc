@@ -1,0 +1,5 @@
+Eu utilizei ia nos seguintes casos:
+- Pedi ajuda para criar os graficos de ruido
+- No comeco da atividade 2.1 eu achei q era para transformar os bits em texto e estava estranhando pq ele
+possuia caracteres estranhos, ai acabei pedindo ajuda da ia para saber se eu estava fazendo algo errado mas
+n adiantou de nada. Dps falei com outros alunos e descobri q era para usar só os bits
